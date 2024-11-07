@@ -16,5 +16,5 @@ Below, the instructions and the current status of the project
 | JAL   | X | X | X |
 | BGEZ  | X |   |   |
 | LH    | X |   |   |
-| SRA   | X |   | X |
+| SRA   | X | X | X |
 | ORI   |   |   |   |
