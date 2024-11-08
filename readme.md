@@ -13,8 +13,8 @@ Below, the instructions and the current status of the project
 
 |Instruction | Monocicle | Multicicle | Pipeline |
 | ---------- | --------- | ---------- | -------- |
-| JAL   | X |   | X |
+| JAL   | X | X |   |
 | BGEZ  | X | X |   |
 | LH    | X |   | X |
-| SRA   | X |   | X |
+| SRA   | X | X |   |
 | ORI   |   |   |   |
