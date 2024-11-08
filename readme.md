@@ -11,12 +11,12 @@ In this project, we shall implement the following instruction in 3 different org
 
 Below, the instructions and the current status of the project
 
-|Instruction | Monocicle | Multicicle | Pipeline |
-| ---------- | --------- | ---------- | -------- |
-| JAL   | X | X | ~ |
-| BGEZ  | X | X | ~ |
+| Instruction | Monocicle | Multicicle | Pipeline |
+| ----------- | --------- | ---------- | -------- |
+| JAL   | X | X | X |
+| BGEZ  | X | X | X |
 | LH    | X | X | X |
-| SRA   | X | X | ~ |
+| SRA   | X | X | X |
 | ORI   |   |   |   |
 
 ~ - needs fixes
